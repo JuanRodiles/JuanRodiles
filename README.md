@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @JuanRodiles
-- 👀 I’m interested in New Learning frameworks in Education
-- 🌱 I’m currently learning Research in Education with Tech 
-- 💞️ I’m looking to collaborate on Developers, Students, and Teachers
+- 🧐 I’m currently working at **Innovacción**, powered by Microsoft.
+- 👀 I’m interested in New Learning frameworks in Education.
+- 🌱 I’m currently learning Research in Education with Tech.
+- 💞️ I’m looking to collaborate on Developers, Students, and Teachers.
 - 📫 How to reach me https://www.linkedin.com/in/jrodiles/ 
 
 <!---
